@@ -4,7 +4,7 @@ My name is Gabriel. I'm from Brazil.
 
 🎓I'm currently doing a bachelor degree in Computer Science. 
 
-🌱I'm looking for learning to code.
+🌱im looking for how to learn to code.
 
 📫 Find me arround the web:
 
