@@ -12,4 +12,4 @@
 <a href="https://open.spotify.com/user/biel.iope" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 ## Github Stats
-![Iope's GitHub stats](https://github-readme-stats.vercel.app/api/?username=iopebiel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Iope's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=iopebiel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
