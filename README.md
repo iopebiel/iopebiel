@@ -45,7 +45,7 @@ I enjoy listening to music and staying updated on the latest news in the world o
 <div align="center">
 <!-- <a href="https://iopebiel.github.io/" target="_blank">
     <img src=https://img.shields.io/badge/Portfolio-red.svg?style=for-the-badge&logo=firefox&logoColor=white alt=portfolio style="margin-bottom: 5px;" /></a> -->
-    <a href="https://docs.google.com/gview?url=https://github.com/iopebiel/Curriculum-vitae/raw/main/CV%20Gabriel%20Iope%20English.pdf&embedded=true" target="_blank">
+    <a href="https://docs.google.com/gview?url=https://github.com/iopebiel/Curriculum-vitae/raw/main/CV%20Gabriel%20Iope%20EN.pdf&embedded=true" target="_blank">
   <img src=https://img.shields.io/badge/-Curriculum%20Vitæ-orange alt=email style="height: 28px;" /></a>  
   <a href="https://github.com/iopebiel" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
