@@ -3,7 +3,7 @@
 Please, make yourself at home!
 
 ## About me
-I'm a Developer in São Paulo, Brazil. Currently pursuing a Bachelor of Computer Science at IFSP (Instituto Federal de São Paulo). Dedicated to honing my craft, I thrive on the constant evolution of my skills in Technology and Software Development.
+I'm Software Engineer in São Paulo, Brazil. Currently pursuing a Bachelor of Computer Science at IFSP (Instituto Federal de São Paulo). Dedicated to honing my craft, I thrive on the constant evolution of my skills in Technology and Software Development.
 
 I enjoy listening to music and staying updated on the latest news in pop culture. However, when it's time to focus on development, I grab a coffee, put on some music, and dive into my coding journey.  :)
 
