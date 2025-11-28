@@ -7,6 +7,11 @@ I'm Software Engineer in São Paulo, Brazil. Currently pursuing a Bachelor of Co
 
 I enjoy listening to music and staying updated on the latest news in pop culture. However, when it's time to focus on development, I grab a coffee, put on some music, and dive into my coding journey.  :)
 
+## Stats
+<p align="left"><img src="https://komarev.com/ghpvc/?username=iopebiel&label=Profile%20views&color=0e75b6&style=flat" alt="iopebiel" /> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=iopebiel" alt="iopebiel" /> </p>
+
+
 ## Skills
 <table><tr><td valign="top" width="33%">
 
@@ -51,8 +56,6 @@ I enjoy listening to music and staying updated on the latest news in pop culture
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
   <a href="https://linkedin.com/in/gabrieliope" target="_blank" rel="noopener noreferrer">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-  <a href="https://instagram.com/iopebiel" target="_blank" rel="noopener noreferrer">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>  
 </div>
 <br/>  
 
