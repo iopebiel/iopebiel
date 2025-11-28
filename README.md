@@ -58,7 +58,3 @@ I enjoy listening to music and staying updated on the latest news in pop culture
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 </div>
 <br/>  
-
-## Github Stats and Most Used Languages
-![Iope's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=iopebiel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iopebiel&layout=compact&langs_count=7&theme=dark)
